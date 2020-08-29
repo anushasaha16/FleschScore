@@ -2,7 +2,9 @@ import javafx.scene.Scene;
 import javafx.scene.layout.BorderPane;
 import javafx.scene.paint.Color;
 import javafx.stage.Stage;
-
+/**
+ * Allows viewing of application
+ */
 public class View
 {
 	private Stage myStage;
